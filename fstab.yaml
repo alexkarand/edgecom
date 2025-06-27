@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/alexkarand/edgedemo/
+    url: https://content.da.live/alexkarand/edgecom/
     type: markup
 folders:
   /products/: /products/default
