@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
+      "commerce-core-endpoint": "https://mcstaging.testequipmentdepot.com/graphql",
+      "commerce-endpoint": "https://mcstaging.testequipmentdepot.com/cs-graphql",
       "headers": {
         "all": {
           "Store": "default"
@@ -12,7 +12,7 @@
           "Magento-Store-Code": "main_website_store",
           "Magento-Store-View-Code": "default",
           "Magento-Website-Code": "base",
-          "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
+          "x-api-key": "87w6s0ur11h6kztk084288s5wkndpwe7",
           "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
         }
       },
@@ -21,7 +21,7 @@
         "environment": "Production",
         "store-id": 1,
         "store-name": "Main Website Store",
-        "store-url": "https://www.aemshop.net",
+        "store-url": "https://mcstaging.testequipmentdepot.com/",
         "store-view-id": 1,
         "store-view-name": "Default Store View",
         "website-id": 1,
