@@ -10,8 +10,7 @@
 
 /* header and nav layout */
 header .nav-wrapper {
-  /*background-color: var(--background-color);*/
-  background-color: #0fb5ae;
+  background-color: var(--background-color);
   width: 100%;
   z-index: 3;
   position: fixed;
