@@ -1,8 +1,9 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://mcstaging.testequipmentdepot.com/graphql",
-      "commerce-endpoint": "https://mcstaging.testequipmentdepot.com/cs-graphql",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Lra43tdzroLynGPVUU6J9V/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Lra43tdzroLynGPVUU6J9V/graphql",
+      "ac-environment-id" : "Lra43tdzroLynGPVUU6J9V",
       "headers": {
         "all": {
           "Store": "default"
