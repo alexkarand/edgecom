@@ -1,9 +1,9 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Lra43tdzroLynGPVUU6J9V/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Lra43tdzroLynGPVUU6J9V/graphql",
-      "ac-environment-id" : "Lra43tdzroLynGPVUU6J9V",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/P9eYXjoVrSh8u3qmT8jxzS/v1/catalog",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/P9eYXjoVrSh8u3qmT8jxzS/graphql",
+      "ac-environment-id" : "P9eYXjoVrSh8u3qmT8jxzS",
       "headers": {
         "all": {
           "Store": "default"
