@@ -1,37 +1,37 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/P9eYXjoVrSh8u3qmT8jxzS/v1/catalog",
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/P9eYXjoVrSh8u3qmT8jxzS/graphql",
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/P9eYXjoVrSh8u3qmT8jxzS/graphql",
-      "ac-environment-id" : "P9eYXjoVrSh8u3qmT8jxzS",
       "headers": {
         "all": {
           "Store": "default"
         },
         "cs": {
-          "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
-          "Magento-Store-Code": "main_website_store",
-          "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "base",
-          "x-api-key": "87w6s0ur11h6kztk084288s5wkndpwe7",
-          "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
+          "AC-View-ID": "1f0e04d0-e40c-4a7e-b61f-34a650cc72b5",
+          "AC-Source-Locale": "en",
+          "AC-Price-Book-ID": "us"
         }
       },
       "analytics": {
         "base-currency-code": "USD",
-        "environment": "Production",
-        "store-id": 1,
-        "store-name": "Main Website Store",
-        "store-url": "https://mcstaging.testequipmentdepot.com/",
-        "store-view-id": 1,
-        "store-view-name": "Default Store View",
-        "website-id": 1,
-        "website-name": "Main Website"
+        "environment": "Testing",
+        "environment-id": "P9eYXjoVrSh8u3qmT8jxzS",
+        "store-code": "YOUR_STORE_CODE",
+        "store-id": "YOUR_STORE_ID",
+        "store-name": "YOUR_STORE_NAME",
+        "store-url": "YOUR_STORE_URL",
+        "store-view-code": "YOUR_STORE_VIEW_CODE",
+        "store-view-id": "YOUR_STORE_VIEW_ID",
+        "store-view-name": "YOUR_STORE_VIEW_NAME",
+        "website-code": "YOUR_WEBSITE_CODE",
+        "website-id": "YOUR_WEBSITE_ID",
+        "website-name": "YOUR_WEBSITE_NAME"
       },
       "plugins": {
         "picker": {
-           "rootCategory": "2"
-         }
+          "rootCategory": "2"
+        }
       }
     }
   }
